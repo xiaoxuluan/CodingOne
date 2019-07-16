@@ -50,8 +50,8 @@ public class IOTest {
         String path1 = "D:\\1.txt";
         String path2 = "D:\\2.txt";
 
-        for (int i = 0; i <100 ; i++) {
-            ioTest.addFile("luanyanxu"+i,path1);
+        for (int i = 0; i <10000 ; i++) {
+            //ioTest.addFile("luanyanxu"+i,path1);
         }
 
         for (int i = 0; i <100 ; i++) {

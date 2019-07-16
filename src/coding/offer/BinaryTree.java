@@ -50,7 +50,29 @@ public class BinaryTree {
         }  
         printNode(root);  
     }  
-      
+
+    //求二叉树的深度
+    public int height(Node node){
+        if(node==null){
+            return 0;
+        }else{
+            int m = height(node.getLeftNode());
+            int n = height(node.getRightNode());
+            //System.out.println(Math.max(m,n)+1);
+            return Math.max(m,n)+1;
+        }
+    }
+
+    //求所有节点数
+    public  int totalNode(Node node){
+        if(node  == null){
+            return 0;
+        }
+
+        int m = totalNode(node.getLeftNode());
+        int n = totalNode(node.getRightNode());
+        return  m+n+1;
+    }
    
     	
     	
@@ -68,5 +90,9 @@ public class BinaryTree {
         System.out.println("后序遍历");  
         tree.thePostOrderTraversal(root);  
         System.out.println("");
+
+        System.out.println(tree.height(root));
+
+        System.out.println(tree.totalNode(root));
     }  
 }
