@@ -35,7 +35,7 @@ public class Leetcode47 {
 
      */
 
-    public List<List<Integer>> premuteUnique(int [] nums){
+    public List<List<Integer>> permuteUnique(int [] nums){
         int length = nums.length;
         if(length == 0){
             return  result;
@@ -74,6 +74,6 @@ public class Leetcode47 {
 
     public static void main(String[] args) {
         int [] nums = {1,1,2};
-        System.out.println(new Leetcode47().premuteUnique(nums));
+        System.out.println(new Leetcode47().permuteUnique(nums));
     }
 }

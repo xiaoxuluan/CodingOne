@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding/dag/Digraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/dag/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/dag/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/dag/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/BinaryTree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/BinaryTree/BinaryTreeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/BinaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,14 +78,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="525">
+              <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -132,12 +134,13 @@
         <option value="$PROJECT_DIR$/src/coding2/leetcode/leetcode46.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode46.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode01.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1042" />
-    <option name="y" value="291" />
+    <option name="x" value="900" />
+    <option name="y" value="152" />
     <option name="width" value="1230" />
     <option name="height" value="863" />
   </component>
@@ -175,6 +178,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="coding2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode47">
+  <component name="RunManager" selected="Application.Leetcode01">
     <configuration name="BinaryTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding2.BinaryTree.BinaryTree" />
       <module name="CodingOne" />
@@ -222,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.offer.BinaryTree" />
+    <configuration name="Leetcode01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding2.leetcode.Leetcode01" />
       <module name="CodingOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.offer.*" />
+          <option name="PATTERN" value="coding2.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,19 +285,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTree" />
       <item itemvalue="Application.BinaryTree (1)" />
       <item itemvalue="Application.Scheduler" />
       <item itemvalue="Application.leetcode46" />
       <item itemvalue="Application.Leetcode47" />
+      <item itemvalue="Application.Leetcode01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode01" />
         <item itemvalue="Application.Leetcode47" />
         <item itemvalue="Application.leetcode46" />
         <item itemvalue="Application.Scheduler" />
         <item itemvalue="Application.BinaryTree (1)" />
-        <item itemvalue="Application.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +315,7 @@
       <workItem from="1563186174460" duration="1169000" />
       <workItem from="1563257347549" duration="960000" />
       <workItem from="1563522261416" duration="8465000" />
-      <workItem from="1564106914922" duration="7926000" />
+      <workItem from="1564106914922" duration="8769000" />
     </task>
     <task id="LOCAL-00001" summary="add coding2 for offer">
       <created>1562064517853</created>
@@ -342,16 +352,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563522888713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="有向无环图&#10;二叉树遍历&#10;全排列 回溯and剪枝">
+      <created>1564229794956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564229794956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20868000" />
+    <option name="totallyTimeSpent" value="21711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22702703" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22702703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -360,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18832117" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18832117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,7 +389,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32846716" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.60583943" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.60583943" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,7 +438,8 @@
     <MESSAGE value="delete coding2.hello.class" />
     <MESSAGE value="update remae.me" />
     <MESSAGE value="添加二叉树的深度和叶子数的求法  &#10;判断一个数是不是2的n次方" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加二叉树的深度和叶子数的求法  &#10;判断一个数是不是2的n次方" />
+    <MESSAGE value="有向无环图&#10;二叉树遍历&#10;全排列 回溯and剪枝" />
+    <option name="LAST_COMMIT_MESSAGE" value="有向无环图&#10;二叉树遍历&#10;全排列 回溯and剪枝" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -613,11 +632,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode47.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="525">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
