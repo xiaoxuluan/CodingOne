@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding2/gogogo/T1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p0901/H1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingOne.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/coding2/gogogo/T1.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="e#15#40#0" expanded="true" />
               </folding>
@@ -128,12 +125,6 @@
               <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p0901" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -152,6 +143,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="E:/BaiduYunDownload/电商推荐系统/ECommerceRecommendSystem" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -236,8 +228,8 @@
       <item itemvalue="Application.Leetcode34" />
       <item itemvalue="Application.Leetcode35" />
       <item itemvalue="Application.Leetcode40" />
-      <item itemvalue="Go Build.go build T1.go" />
       <item itemvalue="Application.H1" />
+      <item itemvalue="Go Build.go build T1.go" />
     </list>
     <recent_temporary>
       <list>
@@ -273,7 +265,7 @@
       <workItem from="1566977016927" duration="1094000" />
       <workItem from="1567008782494" duration="555000" />
       <workItem from="1567153523160" duration="1004000" />
-      <workItem from="1567322000627" duration="390000" />
+      <workItem from="1567322000627" duration="916000" />
     </task>
     <task id="LOCAL-00001" summary="add coding2 for offer">
       <created>1562064517853</created>
@@ -366,17 +358,24 @@
       <option name="project" value="LOCAL" />
       <updated>1566977503341</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="添加H1类">
+      <created>1567322455493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567322455494</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43073000" />
+    <option name="totallyTimeSpent" value="43599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19864865" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19864865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -477,7 +476,8 @@
     <MESSAGE value="在排序数组中查找元素的第一个和最后一个位置&#10;&#10;&#10;给定一个按照升序排列的整数数组 nums，和一个目标值 target。找出给定目标值在数组中的开始位置和结束位置" />
     <MESSAGE value="搜索插入位置" />
     <MESSAGE value="组合总数II" />
-    <option name="LAST_COMMIT_MESSAGE" value="组合总数II" />
+    <MESSAGE value="添加H1类" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加H1类" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -743,7 +743,7 @@
     <entry file="file://$PROJECT_DIR$/src/coding2/gogogo/T1.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding>
             <element signature="e#15#40#0" expanded="true" />
           </folding>
