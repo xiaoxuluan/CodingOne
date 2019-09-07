@@ -1,4 +1,4 @@
-package coding2;
+package coding2.review;
 
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
