@@ -7,30 +7,24 @@ package coding2.leetcode;
  */
 public class Leetcode41 {
 
-    public int firstMissingPositive(int [] nums){
+    public int firstMissingPositive(int[] nums) {
         int len = nums.length;
-
-        int [] arr = new int [len+2];
-
-       for(int item :nums){
-            if(item>0&&item<=len){
-                arr[item]=1;
+        int[] arr = new int[len + 2];
+        for (int item : nums) {
+            if (item > 0 && item <= len) {
+                arr[item] = 1;
             }
         }
-
-        for (int i = 1; i < len+2; i++) {
-            if(0 == arr[i]){
+        for (int i = 1; i < len + 2; i++) {
+            if (0 == arr[i]) {
                 return i;
             }
         }
-
-        return len+1;
+        return len + 1;
     }
 
     public static void main(String[] args) {
-
-        int [] nums = {0,1,2};
-
+        int[] nums = {0, 1, 2};
         System.out.println(new Leetcode41().firstMissingPositive(nums));
     }
 }
