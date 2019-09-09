@@ -8,7 +8,7 @@ package coding2.leetcode;
 public class Leetcode33 {
     /**
      * 搜索旋转排序数组
-     *
+     *O(logN)的复杂度 指引着我们使用二分查找算法  进行处理
      */
     int [] nums;
     int target ;
