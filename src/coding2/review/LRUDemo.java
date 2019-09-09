@@ -1,6 +1,5 @@
 package coding2.review;
 
-import java.security.Key;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
@@ -15,9 +14,9 @@ public class LRUDemo<K,V> {
     private final int MAX_CACHE_SZIE;
     private final float DEFAULT_LOAD_FACTORY = 0.75f;
 
-    LinkedHashMap<K,V> map;
+    private LinkedHashMap<K,V> map;
 
-    public LRUDemo(int cacheSize) {
+    private LRUDemo(int cacheSize) {
         MAX_CACHE_SZIE = cacheSize;
         int capacity = (int ) Math.ceil(MAX_CACHE_SZIE/DEFAULT_LOAD_FACTORY)+1;
 
@@ -40,7 +39,7 @@ public class LRUDemo<K,V> {
         return map.get(key);
     }
 
-    public synchronized void remove(K key){
+    private synchronized void remove(K key){
         map.remove(key);
     }
 
@@ -64,6 +63,8 @@ public class LRUDemo<K,V> {
         lrudemo.put(3,103);
         System.out.println(lrudemo);
         lrudemo.put(4,104);
+        System.out.println(lrudemo);
+        lrudemo.remove(4);
         System.out.println(lrudemo);
     }
 
