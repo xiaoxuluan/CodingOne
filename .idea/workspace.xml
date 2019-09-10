@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode43.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode41.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode219.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-413">
+            <state relative-caret-position="350">
               <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
@@ -71,16 +62,25 @@
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode414.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="750">
-              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="39" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state relative-caret-position="324">
+              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -182,12 +182,13 @@
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode219.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode414.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="987" />
-    <option name="y" value="112" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="985" />
+    <option name="y" value="110" />
     <option name="width" value="955" />
     <option name="height" value="1040" />
   </component>
@@ -200,7 +201,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,17 +219,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="coding2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding2" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,7 +369,9 @@
       <workItem from="1567763405979" duration="6888000" />
       <workItem from="1568006228610" duration="2844000" />
       <workItem from="1568013987811" duration="6491000" />
-      <workItem from="1568022203244" duration="3272000" />
+      <workItem from="1568022203244" duration="3637000" />
+      <workItem from="1568083447252" duration="11000" />
+      <workItem from="1568091598165" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="add coding2 for offer">
       <created>1562064517853</created>
@@ -559,17 +555,23 @@
       <option name="project" value="LOCAL" />
       <updated>1568026264755</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="485 连续的1有多少个">
+      <created>1568027571789</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1568027571789</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71373000" />
+    <option name="totallyTimeSpent" value="73134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="788" y="88" width="764" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22972973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48991355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -657,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add code about java file test" />
     <MESSAGE value="delete coding2.hello.class" />
     <MESSAGE value="update remae.me" />
     <MESSAGE value="添加二叉树的深度和叶子数的求法  &#10;判断一个数是不是2的n次方" />
@@ -682,16 +683,10 @@
     <MESSAGE value="217存在重复元素" />
     <MESSAGE value="219 存在重复元素II" />
     <MESSAGE value="414 第三大的元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="414 第三大的元素" />
+    <MESSAGE value="485 连续的1有多少个" />
+    <option name="LAST_COMMIT_MESSAGE" value="485 连续的1有多少个" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/coding/topN/Words.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/topN/TopK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1022,6 +1017,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode219.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode414.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode31.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -1046,24 +1055,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode219.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-413">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode414.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="473">
+          <caret line="39" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
         </state>
       </provider>
     </entry>
