@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode41.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode55.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode217.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,11 +59,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="330">
               <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode93.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-752">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#199#207#0" expanded="true" />
+                <element signature="e#255#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode697.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/coding/gc/SoftGc.java" />
         <option value="$PROJECT_DIR$/src/coding2/Hello.java" />
         <option value="$PROJECT_DIR$/src/coding/topN/Words.java" />
         <option value="$PROJECT_DIR$/src/coding/topN/Top100.java" />
@@ -183,12 +191,14 @@
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode414.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode485.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode93.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode697.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="985" />
-    <option name="y" value="110" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-95" />
+    <option name="y" value="102" />
     <option name="width" value="955" />
     <option name="height" value="1040" />
   </component>
@@ -218,6 +228,13 @@
               <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="coding2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,7 +388,7 @@
       <workItem from="1568013987811" duration="6491000" />
       <workItem from="1568022203244" duration="3637000" />
       <workItem from="1568083447252" duration="11000" />
-      <workItem from="1568091598165" duration="1385000" />
+      <workItem from="1568091598165" duration="4971000" />
     </task>
     <task id="LOCAL-00001" summary="add coding2 for offer">
       <created>1562064517853</created>
@@ -562,16 +579,23 @@
       <option name="project" value="LOCAL" />
       <updated>1568027571789</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="62 不同路径">
+      <created>1568094031225</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1568094031225</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73134000" />
+    <option name="totallyTimeSpent" value="76720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="88" width="764" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48991355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22972973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -659,7 +683,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete coding2.hello.class" />
     <MESSAGE value="update remae.me" />
     <MESSAGE value="添加二叉树的深度和叶子数的求法  &#10;判断一个数是不是2的n次方" />
     <MESSAGE value="有向无环图&#10;二叉树遍历&#10;全排列 回溯and剪枝" />
@@ -684,26 +707,10 @@
     <MESSAGE value="219 存在重复元素II" />
     <MESSAGE value="414 第三大的元素" />
     <MESSAGE value="485 连续的1有多少个" />
-    <option name="LAST_COMMIT_MESSAGE" value="485 连续的1有多少个" />
+    <MESSAGE value="62 不同路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="62 不同路径" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/coding/topN/TopK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/topN/Top100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5225">
-          <caret line="215" selection-start-line="215" selection-end-line="215" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/topN/HeapSortAndTopN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1064,8 +1071,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode62.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="330">
           <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode93.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-752">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#207#0" expanded="true" />
+            <element signature="e#255#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
