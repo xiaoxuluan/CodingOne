@@ -30,7 +30,6 @@ public class Leetcode162 {
      *
      */
 
-
     public int findPeakElement(int [] nums ){
         int l = 0,r = nums.length-1;
         while (l<r){
