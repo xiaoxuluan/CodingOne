@@ -7,7 +7,7 @@ package coding2.leetcode;
  */
 public class Leetcode42 {
 
-    public int trap(int [] height){
+    private int trap(int[] height){
 
         int n = height.length,sum = 0;
         if( n == 0){
@@ -18,10 +18,10 @@ public class Leetcode42 {
         left[0] = height[0];
         right[n-1] = height[n-1];
 
-        /**
-         * 计算出每一列左边最高，右边最高的高度
-         * 最后每一列包含水滴的个数即为 两边最低的高度减去当前高度
-         */
+
+         //计算出每一列左边最高，右边最高的高度
+         //最后每一列包含水滴的个数即为 两边最低的高度减去当前高度
+
 
         for(int i=1;i<n;i++){
             left[i] = Math.max(height[i],left[i-1]);
