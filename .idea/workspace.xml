@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode81.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding2/review/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding2/review/ThreadPoolDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,14 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/review/ThreadPoolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+            <state relative-caret-position="1525">
+              <caret line="61" column="5" selection-start-line="46" selection-start-column="21" selection-end-line="61" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode81.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -93,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode43.java" />
         <option value="$PROJECT_DIR$/src/coding2/thread/LinkedHashSetDemo.java" />
         <option value="$PROJECT_DIR$/src/coding2/thread/AtomInteger.java" />
         <option value="$PROJECT_DIR$/src/coding2/pattern/SingletonPattern.java" />
@@ -144,12 +152,13 @@
         <option value="$PROJECT_DIR$/src/coding/multiThread/ThreadPoolDemo.java" />
         <option value="$PROJECT_DIR$/src/coding2/review/B.java" />
         <option value="$PROJECT_DIR$/src/coding2/review/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode81.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="872" />
-    <option name="y" value="160" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1100" />
     <option name="height" value="930" />
   </component>
@@ -184,15 +193,7 @@
               <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="coding2" type="462c0819:PsiDirectoryNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding2" type="462c0819:PsiDirectoryNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadPoolDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadPoolDemo (1)">
+  <component name="RunManager" selected="Application.Leetcode81">
     <configuration name="AbcTnread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding.multiThread.AbcTnread" />
       <module name="CodingOne" />
@@ -263,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.multiThread.MyLock" />
+    <configuration name="Leetcode81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding2.leetcode.Leetcode81" />
       <module name="CodingOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding.multiThread.*" />
+          <option name="PATTERN" value="coding2.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyLock" />
       <item itemvalue="Application.AbcTnread" />
       <item itemvalue="Application.ThreadPoolDemo" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.ThreadPoolDemo (1)" />
+      <item itemvalue="Application.Leetcode81" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode81" />
         <item itemvalue="Application.ThreadPoolDemo (1)" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.ThreadPoolDemo" />
         <item itemvalue="Application.AbcTnread" />
-        <item itemvalue="Application.MyLock" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +378,7 @@
       <workItem from="1570973411395" duration="3080000" />
       <workItem from="1571045850112" duration="3587000" />
       <workItem from="1571119796737" duration="3743000" />
-      <workItem from="1571131942103" duration="1279000" />
-    </task>
-    <task id="LOCAL-00009" summary="下一个排列">
-      <created>1565259911209</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1565259911209</updated>
+      <workItem from="1571131942103" duration="2986000" />
     </task>
     <task id="LOCAL-00010" summary="最长有效括号">
       <created>1565592687903</created>
@@ -722,17 +716,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571132658546</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="补充线程池拒绝策略 添加线程池调用关闭">
+      <created>1571133505371</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1571133505371</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133252000" />
+    <option name="totallyTimeSpent" value="134959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26891893" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.491358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -741,7 +742,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932432" weight="0.46423358" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932432" visible="true" weight="0.2729927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -820,7 +821,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="79 单词搜索" />
     <MESSAGE value="归并排序" />
     <MESSAGE value="1099 「小于 K 的两数之和 」" />
     <MESSAGE value="154 leetcode" />
@@ -845,16 +845,10 @@
     <MESSAGE value="线程池demo" />
     <MESSAGE value="ABCdemo" />
     <MESSAGE value="父类子类代码执行顺序" />
-    <option name="LAST_COMMIT_MESSAGE" value="父类子类代码执行顺序" />
+    <MESSAGE value="补充线程池拒绝策略 添加线程池调用关闭" />
+    <option name="LAST_COMMIT_MESSAGE" value="补充线程池拒绝策略 添加线程池调用关闭" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode55.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode217.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -1217,11 +1211,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding2/review/ThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        <state relative-caret-position="1525">
+          <caret line="61" column="5" selection-start-line="46" selection-start-column="21" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode81.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
         </state>
       </provider>
     </entry>
