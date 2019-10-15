@@ -14,11 +14,20 @@ public class ThreadPoolDemo {
 
     public static void main(String[] args) {
         try {
-            ThreadPoolExecutor executor = new ThreadPoolExecutor(5,10,200, TimeUnit.SECONDS,new ArrayBlockingQueue<Runnable>(5));
+            ThreadPoolExecutor executor = new ThreadPoolExecutor(
+                    5,
+                    10,
+                    200,
+                    TimeUnit.SECONDS,
+                    new ArrayBlockingQueue<Runnable>(5),
+                    //线程的拒绝策略
+                    new ThreadPoolExecutor.AbortPolicy());
 
             ThreadDemo temp = new ThreadDemo("hello");
 
             executor.execute(temp);
+
+            executor.shutdown();
 
         }catch (Exception e){
             e.printStackTrace();
