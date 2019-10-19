@@ -21,7 +21,7 @@ public class Leetcode81 {
                 return true;
             }
 
-            if(nums[start]<nums[mid]){
+            if(nums[start]==nums[mid]){
                 start++;
                 continue;
             }
@@ -37,7 +37,8 @@ public class Leetcode81 {
                 }
             }else {
 
-                //后 有序
+                //后 半部分有序
+                //target在后半部分
                 if(nums[mid]<target&& nums[end]>=target){
                     start = mid+1;
                 }else {
