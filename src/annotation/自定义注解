@@ -1,0 +1,31 @@
+1.自定义注解作用的范围
+类 接口 属性 方法 成员表变量
+
+2.元注解
+@Target 作用的范围
+ElementType取值
+Constuctor
+field
+local_var
+method
+package
+parameter
+type
+-------------------
+@Retention
+ 被保留时间的长短
+ source 源文件有效
+ class 在class文件中有效
+ runtime 运行时有效
+
+@Document
+javadoc文档化
+@Inhrited
+该注解可以被继承
+
+@@Inhrited
+class A{}
+
+
+class B extends A{}
+B也可以使用A的注解
