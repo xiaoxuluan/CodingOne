@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding/multiThread/forkjoin/ForkJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,33 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/annotation/CustomUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/proxy/ProxyImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/proxy/ProxyPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/proxy/RealImage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,20 +68,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/proxy/jdkproxy/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="725">
               <caret line="29" column="1" selection-start-line="7" selection-start-column="20" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/multiThread/forkjoin/ForkJoinDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="25">
+              <caret line="25" column="5" selection-start-line="22" selection-start-column="47" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/gc/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/thread/AtomicIntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode77.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="51" column="37" lean-forward="true" selection-start-line="42" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -137,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/coding2/review/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode1099.java" />
         <option value="$PROJECT_DIR$/src/coding2/review/jvmtest.java" />
         <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode172.java" />
@@ -188,14 +187,15 @@
         <option value="$PROJECT_DIR$/src/coding/proxy/jdkproxy/Clie.java" />
         <option value="$PROJECT_DIR$/src/coding/proxy/jdkproxy/Client.java" />
         <option value="$PROJECT_DIR$/src/coding/multiThread/forkjoin/ForkJoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode77.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="811" />
-    <option name="y" value="65" />
-    <option name="width" value="1100" />
-    <option name="height" value="930" />
+    <option name="x" value="847" />
+    <option name="y" value="13" />
+    <option name="width" value="990" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -205,8 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,27 +221,21 @@
               <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingOne" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
-              <item name="forkjoin" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForkJoinDemo">
+  <component name="RunManager" selected="Application.Leetcode77">
     <configuration name="Clie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding.proxy.jdkproxy.Clie" />
       <module name="CodingOne" />
@@ -320,6 +312,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding2.leetcode.Leetcode77" />
+      <module name="CodingOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding2.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyZhujie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding2.review.MyZhujie" />
       <module name="CodingOne" />
@@ -333,33 +338,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding2.review.T1" />
-      <module name="CodingOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding2.review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.T1" />
       <item itemvalue="Application.MyZhujie" />
       <item itemvalue="Application.CustomUtils" />
       <item itemvalue="Application.Clie" />
       <item itemvalue="Application.ForkJoinDemo" />
+      <item itemvalue="Application.Leetcode77" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode77" />
         <item itemvalue="Application.ForkJoinDemo" />
         <item itemvalue="Application.Clie" />
         <item itemvalue="Application.CustomUtils" />
         <item itemvalue="Application.MyZhujie" />
-        <item itemvalue="Application.T1" />
       </list>
     </recent_temporary>
   </component>
@@ -424,14 +416,8 @@
       <workItem from="1571131942103" duration="5255000" />
       <workItem from="1571202687138" duration="8109000" />
       <workItem from="1571495134194" duration="6792000" />
-      <workItem from="1571626818606" duration="2991000" />
-    </task>
-    <task id="LOCAL-00017" summary="复习LRU">
-      <created>1567846965505</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1567846965505</updated>
+      <workItem from="1571626818606" duration="3719000" />
+      <workItem from="1571903150950" duration="3340000" />
     </task>
     <task id="LOCAL-00018" summary="发现旋转数组索引">
       <created>1568008540123</created>
@@ -769,17 +755,23 @@
       <option name="project" value="LOCAL" />
       <updated>1571512503405</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="forkjoindemo">
+      <created>1571630245855</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1571630245857</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155120000" />
+    <option name="totallyTimeSpent" value="159188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19391891" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3972973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -788,7 +780,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932432" visible="true" weight="0.22773723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932432" weight="0.57226276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -867,7 +859,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="98 验证二叉搜索树" />
     <MESSAGE value="206 反转链表" />
     <MESSAGE value="209 长度最小的子数组" />
     <MESSAGE value="118 杨辉三角I" />
@@ -892,35 +883,10 @@
     <MESSAGE value="Callable Future" />
     <MESSAGE value="自定义注解" />
     <MESSAGE value="jdk动态代理回顾" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdk动态代理回顾" />
+    <MESSAGE value="forkjoindemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="forkjoindemo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/coding/stackimpl/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/stackimpl/MyStack1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1975">
-          <caret line="84" selection-start-line="84" selection-end-line="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29325">
-          <caret line="1233" column="36" selection-start-line="1233" selection-start-column="36" selection-end-line="1233" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/threadlocaltest/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -1261,23 +1227,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy0.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/proxy/jdkproxy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="725">
           <caret line="29" column="1" selection-start-line="7" selection-start-column="20" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy0.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/multiThread/forkjoin/ForkJoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="25">
+          <caret line="25" column="5" selection-start-line="22" selection-start-column="47" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/gc/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/thread/AtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode77.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="37" lean-forward="true" selection-start-line="42" selection-end-line="45" />
         </state>
       </provider>
     </entry>
