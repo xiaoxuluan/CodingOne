@@ -7,5 +7,9 @@ public class MacJavaTest {
         System.out.println("hello mac  java programing test");
 
         System.out.println("git clone pull add push run ");
+
+        System.out.println("hello lyx test commit  by idea ide");
+
+
     }
 }
