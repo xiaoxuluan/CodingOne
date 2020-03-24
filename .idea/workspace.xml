@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="forkjoindemo">
-      <change afterPath="$PROJECT_DIR$/src/coding/dp/MemorySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode329.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/sort105/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/l2/Houxuerchashu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingOne/coding2/review/MacJavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding2/review/MacJavaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingOne/coding/sort105/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingOne/coding/sort105/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/sort105/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort105/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding2/l2/Lru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding2/l2/Lru2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +27,150 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/coding/sort/QuickSort.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-184">
+                    <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/l2/LruCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/l2/Lru2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-259">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-208">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/l2/Houxuerchashu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding2/BinaryTree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
         <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="Go Application" />
         <option value="Class" />
       </list>
     </option>
@@ -38,12 +180,95 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode198.java" />
+        <option value="$PROJECT_DIR$/src/coding2/java8fornew/OptionalTest.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/L57forInterview.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/L209.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/L206.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Thread1.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Thread2.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Thread3.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/T1.go" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/T2.go" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/GoForHttpServer.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0322/GoForHttpServer.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0322/SortGo.java" />
+        <option value="$PROJECT_DIR$/src/coding2/go0322/SortFoGo.java" />
+        <option value="$PROJECT_DIR$/src/coding2/go0322/SortForGo.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/ChanelRange.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/Timer1.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/RateLimter.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/AtomiCount.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/RandomInt.go" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/StringParseNumber.go" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/xuanzhuanshuzu.java" />
+        <option value="$PROJECT_DIR$/src/coding2/go0323/ParseUrl.go" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/LruCache.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Lru2.java" />
+        <option value="$PROJECT_DIR$/src/coding2/l2/Houxuerchashu.java" />
+        <option value="$PROJECT_DIR$/src/coding/sort105/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java" />
+        <option value="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/coding/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="722" />
+    <option name="y" value="12" />
+    <option name="width" value="1160" />
+    <option name="height" value="1009" />
+  </component>
   <component name="ProjectId" id="1TGnc19WqM8nhDaJNpjrG83l7DD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="sort105" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,14 +279,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Person\CodingOne\src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Coding\src\coding2\go0322" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding2.review" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Person\CodingOne\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,13 +304,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode329">
-    <configuration name="BetweenTimeCalculating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding2.review.BetweenTimeCalculating" />
+  <component name="RunManager" selected="Application.TwoNumSums">
+    <configuration name="BubbleSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.sort105.BubbleSort1" />
       <module name="CodingOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding2.review.*" />
+          <option name="PATTERN" value="coding.sort105.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode329" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding2.leetcode.Leetcode329" />
+    <configuration name="TwoNumSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.sort105.TwoNumSums" />
       <module name="CodingOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding2.leetcode.*" />
+          <option name="PATTERN" value="coding.sort105.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,59 +331,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemorySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.dp.MemorySearch" />
+    <configuration name="go build ParseUrl.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="CodingOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/coding2/go0323/ParseUrl.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
-    <configuration name="Pulldata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resource.Pulldata" />
+    <configuration name="go build RandomInt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="CodingOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="resource.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/coding2/go0323/RandomInt.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding2.review.StreamDemo" />
+    <configuration name="go build StringParseNumber.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="CodingOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding2.review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/coding2/go0323/StringParseNumber.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.StreamDemo" />
-      <item itemvalue="Application.Pulldata" />
-      <item itemvalue="Application.BetweenTimeCalculating" />
-      <item itemvalue="Application.MemorySearch" />
-      <item itemvalue="Application.Leetcode329" />
+      <item itemvalue="Go Build.go build RandomInt.go" />
+      <item itemvalue="Go Build.go build StringParseNumber.go" />
+      <item itemvalue="Go Build.go build ParseUrl.go" />
+      <item itemvalue="Application.BubbleSort1" />
+      <item itemvalue="Application.TwoNumSums" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode329" />
-        <item itemvalue="Application.MemorySearch" />
-        <item itemvalue="Application.BetweenTimeCalculating" />
-        <item itemvalue="Application.Pulldata" />
-        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.TwoNumSums" />
+        <item itemvalue="Application.BubbleSort1" />
+        <item itemvalue="Go Build.go build ParseUrl.go" />
+        <item itemvalue="Go Build.go build StringParseNumber.go" />
+        <item itemvalue="Go Build.go build RandomInt.go" />
       </list>
     </recent_temporary>
   </component>
@@ -233,48 +446,11 @@
       <workItem from="1579254425339" duration="1776000" />
       <workItem from="1579596064867" duration="1531000" />
       <workItem from="1580218750913" duration="2516000" />
-    </task>
-    <task id="LOCAL-00021" summary="搜索旋转排序数组">
-      <created>1568016567671</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1568016567671</updated>
-    </task>
-    <task id="LOCAL-00022" summary="reformat code">
-      <created>1568017170007</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1568017170007</updated>
-    </task>
-    <task id="LOCAL-00023" summary="新增注释">
-      <created>1568018486968</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1568018486968</updated>
-    </task>
-    <task id="LOCAL-00024" summary="217存在重复元素">
-      <created>1568020903837</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1568020903837</updated>
-    </task>
-    <task id="LOCAL-00025" summary="219 存在重复元素II">
-      <created>1568021701967</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1568021701967</updated>
-    </task>
-    <task id="LOCAL-00026" summary="414 第三大的元素">
-      <created>1568026264755</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1568026264755</updated>
+      <workItem from="1584196424218" duration="5721000" />
+      <workItem from="1584257878369" duration="2218000" />
+      <workItem from="1584777990088" duration="9436000" />
+      <workItem from="1584873516284" duration="4004000" />
+      <workItem from="1584935750932" duration="11442000" />
     </task>
     <task id="LOCAL-00027" summary="485 连续的1有多少个">
       <created>1568027571789</created>
@@ -577,8 +753,125 @@
       <option name="project" value="LOCAL" />
       <updated>1579596369351</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Leetcode198">
+      <created>1584197996896</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1584197996897</updated>
+    </task>
+    <task id="LOCAL-00071" summary="回顾复习">
+      <created>1584850280849</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1584850280849</updated>
+    </task>
+    <task id="LOCAL-00072" summary="golang0322">
+      <created>1584937160650</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1584937160651</updated>
+    </task>
+    <task id="LOCAL-00073" summary="go chan time ticker">
+      <created>1584964091253</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1584964091253</updated>
+    </task>
+    <task id="LOCAL-00074" summary="parse url">
+      <created>1584979113507</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1584979113507</updated>
+    </task>
+    <task id="LOCAL-00075" summary="lru复习">
+      <created>1584980460429</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1584980460429</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32821000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="578" y="10" width="928" height="807" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32400933" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4434251" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32784185" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.6987768" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Jms Messenger" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3247619" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2553542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3294893" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.7007299" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Jms Messenger" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -599,7 +892,20 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -621,12 +927,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="119 杨辉三角II" />
-    <MESSAGE value="线程池参数" />
-    <MESSAGE value="922. 按奇偶排序数组 II&#10;&#10;&#10;922. 按奇偶排序数组 II&#10;&#10;&#10;&#10;922. 按奇偶排序数组 II&#10;&#10;&#10;&#10;922 奇数偶数排序数组II" />
-    <MESSAGE value="118 更新杨辉三角I" />
-    <MESSAGE value="栈初步实现" />
-    <MESSAGE value="栈增强版" />
     <MESSAGE value="锁实践" />
     <MESSAGE value="leetcode350 数组求交集  包含重复元素" />
     <MESSAGE value="二分查找" />
@@ -642,10 +942,321 @@
     <MESSAGE value="Callable Future" />
     <MESSAGE value="自定义注解" />
     <MESSAGE value="jdk动态代理回顾" />
-    <MESSAGE value="forkjoindemo" />
     <MESSAGE value="testcommit by idea" />
     <MESSAGE value="计算时间间隔" />
     <MESSAGE value="Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream" />
+    <MESSAGE value="Leetcode198" />
+    <MESSAGE value="回顾复习" />
+    <MESSAGE value="golang0322" />
+    <MESSAGE value="go chan time ticker" />
+    <MESSAGE value="forkjoindemo" />
+    <MESSAGE value="parse url" />
+    <MESSAGE value="lru复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="lru复习" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/java8fornew/OptionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/L57forInterview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/L209.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/L206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Thread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/SortFoGo.java" />
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/SortGo.java" />
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Thread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Thread3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/T1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/T2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/GoForHttpServer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0322/SortForGo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/ChanelRange.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/Timer1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/RateLimter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/AtomiCount.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/RandomInt.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/StringParseNumber.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/xuanzhuanshuzu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/go0323/ParseUrl.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/BinaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Houxuerchashu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/l2/Lru2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort105/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort105/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

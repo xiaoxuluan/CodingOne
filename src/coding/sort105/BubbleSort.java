@@ -1,5 +1,8 @@
 package coding.sort105;
 
+/**
+ * @author luanyanxu
+ */
 public class BubbleSort {
 
 	public static void main(String[] args) {
