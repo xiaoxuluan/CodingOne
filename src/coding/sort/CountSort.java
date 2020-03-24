@@ -1,8 +1,8 @@
 package coding.sort;
 
 public class CountSort {
-	
-	public static void main(String [] args) {
+
+    public static void main(String [] args) {
         int a[]={100,93,97,92,96,99,92,89,93,97,90,94,92,95};
         for (int i = 0; i < a.length; i++) {
 			System.out.print(a[i]+" ");

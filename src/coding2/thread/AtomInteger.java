@@ -1,7 +1,7 @@
 package coding2.thread;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/9/4 17:32
  * @Version 1.0
  */

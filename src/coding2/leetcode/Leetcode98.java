@@ -3,7 +3,7 @@ package coding2.leetcode;
 import coding2.BinaryTree.TreeNode;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/9/18 14:45
  * @Version 1.0
  */

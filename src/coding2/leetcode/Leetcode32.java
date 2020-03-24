@@ -3,7 +3,7 @@ package coding2.leetcode;
 import java.util.Stack;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/8/9 15:38
  * @Version 1.0
  */

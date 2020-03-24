@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 全排列问题  使用回溯法 进行解决
  *
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/7/27 18:56
  * @Version 1.0
  */

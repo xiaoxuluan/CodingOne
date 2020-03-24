@@ -1,7 +1,7 @@
 package coding2.leetcode;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class Leetcode328 {
 

@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/9/6 17:50
  * @Version 1.0
  */
@@ -12,7 +12,7 @@ public class LinkedHashSetDemo {
 
     public static void main(String[] args) {
         Set<String> set1 = new LinkedHashSet<>();
-        set1.add("luanyanxu");
+        set1.add("alenlyx");
         set1.add("henu");
         set1.add("cmcc");
         set1.add("jiangnanpigechang");

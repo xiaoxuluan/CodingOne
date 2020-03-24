@@ -1,7 +1,7 @@
 package coding.offer;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  * @version 1.0
  * @date 2019/7/19 15:45
  */

@@ -3,7 +3,7 @@ package coding.dp;
 import java.util.Scanner;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class MemorySearch {
 

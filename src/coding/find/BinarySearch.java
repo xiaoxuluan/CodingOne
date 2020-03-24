@@ -1,7 +1,7 @@
 package coding.find;
 
 /**
- * @author luanyanxu 
+ * @author alenlyx
  * 2018Äê11ÔÂ13ÈÕ
  */
 public class BinarySearch {

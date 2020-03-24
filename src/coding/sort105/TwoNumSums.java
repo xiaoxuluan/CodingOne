@@ -6,7 +6,7 @@ import java.util.Map;
 import static coding.sort105.BubbleSort1.printNums;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2020/3/24 23:38
  * @Version 1.0
  */

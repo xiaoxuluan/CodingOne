@@ -1,7 +1,7 @@
 package coding.multiThread;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/10/13 11:59
  * @Version 1.0
  */

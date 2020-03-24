@@ -3,7 +3,7 @@ package coding2.l2;
 import java.util.concurrent.*;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2020/3/21 21:07
  * @Version 1.0
  */

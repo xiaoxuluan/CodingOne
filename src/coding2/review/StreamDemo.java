@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class StreamDemo {
 

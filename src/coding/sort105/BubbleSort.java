@@ -1,7 +1,7 @@
 package coding.sort105;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class BubbleSort {
 

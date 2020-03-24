@@ -1,7 +1,7 @@
 package coding2.leetcode;
 
 /**
- * @Author: luanyanxu
+ * @Author: alenlyx
  * @Date: 2019/7/27 20:24
  * @Version 1.0
  */

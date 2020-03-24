@@ -3,7 +3,7 @@ package coding2.review;
 import java.util.Date;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class BetweenTimeCalculating {
 

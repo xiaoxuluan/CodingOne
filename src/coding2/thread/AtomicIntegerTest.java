@@ -1,7 +1,7 @@
 package coding2.thread;
 
 /**
- * @author luanyanxu
+ * @author alenlyx
  */
 public class AtomicIntegerTest {
  
