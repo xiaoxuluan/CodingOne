@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6b56e2-6ded-41b0-866c-406bb7928778" name="Default Changelist" comment="forkjoindemo">
-      <change afterPath="$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/coding/sort105/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding2/l2/Houxuerchashu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding2/leetcode/Leetcode26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingOne/coding/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingOne/coding/sort/QuickSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingOne/coding/sort105/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingOne/coding/sort105/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding/sort105/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort105/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding2/l2/Lru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding2/l2/Lru2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,28 +44,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding2/l2/LruCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding2/l2/Lru2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="298">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#393#394#0" expanded="true" />
@@ -88,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -106,19 +83,28 @@
         <entry file="file://$PROJECT_DIR$/src/coding/sort105/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java">
+        <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="322">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -136,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -216,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/coding/sort105/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/coding/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java" />
+        <option value="$PROJECT_DIR$/src/coding2/leetcode/Leetcode26.java" />
       </list>
     </option>
   </component>
@@ -251,14 +238,14 @@
               <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="sort105" type="462c0819:PsiDirectoryNode" />
+              <item name="coding2" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,13 +291,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoNumSums">
+  <component name="RunManager" selected="Application.Leetcode26">
     <configuration name="BubbleSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding.sort105.BubbleSort1" />
       <module name="CodingOne" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="coding.sort105.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding2.leetcode.Leetcode26" />
+      <module name="CodingOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding2.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,14 +339,6 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build RandomInt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="CodingOne" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/coding2/go0323/RandomInt.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build StringParseNumber.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="CodingOne" />
       <working_directory value="$PROJECT_DIR$" />
@@ -356,19 +348,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build RandomInt.go" />
       <item itemvalue="Go Build.go build StringParseNumber.go" />
       <item itemvalue="Go Build.go build ParseUrl.go" />
       <item itemvalue="Application.BubbleSort1" />
       <item itemvalue="Application.TwoNumSums" />
+      <item itemvalue="Application.Leetcode26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode26" />
         <item itemvalue="Application.TwoNumSums" />
         <item itemvalue="Application.BubbleSort1" />
         <item itemvalue="Go Build.go build ParseUrl.go" />
         <item itemvalue="Go Build.go build StringParseNumber.go" />
-        <item itemvalue="Go Build.go build RandomInt.go" />
       </list>
     </recent_temporary>
   </component>
@@ -450,42 +442,7 @@
       <workItem from="1584257878369" duration="2218000" />
       <workItem from="1584777990088" duration="9436000" />
       <workItem from="1584873516284" duration="4004000" />
-      <workItem from="1584935750932" duration="11442000" />
-    </task>
-    <task id="LOCAL-00027" summary="485 连续的1有多少个">
-      <created>1568027571789</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1568027571789</updated>
-    </task>
-    <task id="LOCAL-00028" summary="62 不同路径">
-      <created>1568094031225</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1568094031225</updated>
-    </task>
-    <task id="LOCAL-00029" summary="697 数组的度">
-      <created>1568099496365</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1568099496365</updated>
-    </task>
-    <task id="LOCAL-00030" summary="53 最大和子数组">
-      <created>1568101966411</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1568101966411</updated>
-    </task>
-    <task id="LOCAL-00031" summary="79 单词搜索">
-      <created>1568106396794</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1568106396794</updated>
+      <workItem from="1584935750932" duration="12246000" />
     </task>
     <task id="LOCAL-00032" summary="148 排序链表">
       <created>1568460881994</created>
@@ -795,17 +752,52 @@
       <option name="project" value="LOCAL" />
       <updated>1584980460429</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="优化结果输出">
+      <created>1585064992599</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1585064992599</updated>
+    </task>
+    <task id="LOCAL-00077" summary="两数之和">
+      <created>1585065033335</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065033335</updated>
+    </task>
+    <task id="LOCAL-00078" summary="冒泡排序复习">
+      <created>1585065080310</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065080310</updated>
+    </task>
+    <task id="LOCAL-00079" summary="后序遍历二叉树">
+      <created>1585065111288</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065111288</updated>
+    </task>
+    <task id="LOCAL-00080" summary="LRU缓存复习">
+      <created>1585065154821</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065154821</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32821000" />
+    <option name="totallyTimeSpent" value="33625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="578" y="10" width="928" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32400933" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32400933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -814,7 +806,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4434251" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4434251" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -927,11 +919,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="锁实践" />
-    <MESSAGE value="leetcode350 数组求交集  包含重复元素" />
-    <MESSAGE value="二分查找" />
-    <MESSAGE value="说明更新" />
-    <MESSAGE value="线程池demo" />
     <MESSAGE value="ABCdemo" />
     <MESSAGE value="父类子类代码执行顺序" />
     <MESSAGE value="补充线程池拒绝策略 添加线程池调用关闭" />
@@ -952,7 +939,12 @@
     <MESSAGE value="forkjoindemo" />
     <MESSAGE value="parse url" />
     <MESSAGE value="lru复习" />
-    <option name="LAST_COMMIT_MESSAGE" value="lru复习" />
+    <MESSAGE value="优化结果输出" />
+    <MESSAGE value="两数之和" />
+    <MESSAGE value="冒泡排序复习" />
+    <MESSAGE value="后序遍历二叉树" />
+    <MESSAGE value="LRU缓存复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="LRU缓存复习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode198.java">
@@ -1153,7 +1145,7 @@
     <entry file="file://$PROJECT_DIR$/src/coding2/l2/LruCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
@@ -1186,7 +1178,7 @@
     <entry file="file://$PROJECT_DIR$/src/coding2/l2/Lru2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#393#394#0" expanded="true" />
@@ -1202,14 +1194,14 @@
     <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/sort105/BubbleSort1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1244,17 +1236,24 @@
     <entry file="file://$PROJECT_DIR$/src/coding/sort105/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/sort105/TwoNumSums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="390">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding2/leetcode/Leetcode26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
