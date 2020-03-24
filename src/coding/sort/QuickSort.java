@@ -1,16 +1,14 @@
 package coding.sort;
 
+import static coding.sort105.BubbleSort1.printNums;
+
 public class QuickSort {
 	public static void main(String[] args) {
 		int [] data = {1,9,3,5,6,7,569,4,11,9585,66,56};
-		for (int i = 0; i < data.length; i++) {
-			System.out.print(data[i]+" ");
-		}
+		printNums(data);
 		quickSort(data);
 		System.out.println();
-		for (int i = 0; i < data.length; i++) {
-			System.out.print(data[i]+" ");
-		}
+		printNums(data);
 	}
 
 	private static void quickSort(int[] data) {
