@@ -28,4 +28,6 @@ class Lru2 extends LinkedHashMap<Integer,Integer>{
     protected boolean removeEldestEntry(Map.Entry<Integer,Integer> eldest){
         return size()>capacity;
     }
+
+    //put get O(1) ø’º‰∏¥‘”∂»O(capacity)
 }
