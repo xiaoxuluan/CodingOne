@@ -7,16 +7,40 @@ package coding2.leetcode;
  */
 public class Leetcode206 {
 
-    public ListNode reverseListNode(ListNode head){
+    //1-->2-->3-->null;
+    //null<--1<--2<--3;
+
+    public static ListNode reverseListNode(ListNode head){
         ListNode pre = null;
-        ListNode cur = head;
-        while (cur != null){
-            ListNode next = cur.next;
-            cur.next = pre;
-            pre = cur;
-            cur = next;
+        ListNode current = head;
+        while (current != null){
+            ListNode nextTemp = current.next;
+            current.next = pre;
+            pre = current;
+            current = nextTemp;
         }
 
         return pre;
     }
+
+    public static void main(String[] args) {
+        ListNode head = new ListNode(1);
+        head.val=1;
+        head.next = new ListNode(2);
+        head.next.val=2;
+        head.next.next = new ListNode(3);
+        head.next.next.val=3;
+
+        while (head!=null){
+            System.out.print(head.val+" ");
+            head = head.next;
+        }
+
+        System.out.println();
+        reverseListNode(head);
+
+        System.out.println(head.next.val);
+
+    }
+
 }
